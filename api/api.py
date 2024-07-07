@@ -13,7 +13,7 @@ origins = [
     "http://localhost:3000",  # React dev server
     "http://localhost:5173",
     "https://miniproject-one.vercel.app", 
-    "https://api-backend-git-main-snathsujiths-projects.vercel.app" # Vercel domain
+    "https://api-backend-git-main-snathsujiths-projects.vercel.app/api/getGeminiResponse" # Vercel domain
     "http://localhost:8000/api/getGeminiResponse",
 ]  
 
